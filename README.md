@@ -15,7 +15,7 @@ To run the project locally:
 
 1. Clone this repository:
    ```bash
-   [git clone https://github.com/yourusername/nike-shoes.git](https://github.com/PramodBasavarajMenasi/Nik-shoe-hub_project.git)
+   [git clone https://github.com/PramodBasavarajMenasi/nike-shoes.git](https://github.com/PramodBasavarajMenasi/Nik-shoe-hub_project.git)
 
 2. Navigate to the project folder:
 
